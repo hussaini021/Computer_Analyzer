@@ -1,4 +1,4 @@
-```markdown
+
 # AnalyzPC
 
 A single‑exe Windows tool that scans your full PC hardware and exposes whether your ISP is giving you the speed you pay for.  
